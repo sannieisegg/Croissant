@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    background-color: bisque;
+}
+
+a{
+    padding:10px 13px;
+    color:green;
+}
+
+.mail{
+    padding:-10px;
+}
